@@ -141,6 +141,7 @@
       },
       "access": {
         "landingPage": "https://doi.org/10.17605/OSF.IO/4DGBY",
+        "accessURL": "https://github.com/katielavigne/probabilistic-reasoning-task/archive/refs/heads/main.zip",
         "authorizations": [
           {
             "value": "public"
